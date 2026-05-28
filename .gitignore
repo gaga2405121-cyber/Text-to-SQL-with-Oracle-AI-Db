@@ -1,0 +1,36 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Oracle wallet — contains credentials, NEVER commit
+wallet/
+!wallet/.gitkeep
+*.zip
+cwallet.sso
+ewallet.p12
+tnsnames.ora
+sqlnet.ora
+ojdbc.properties
+
+# Environment secrets
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*_executed.ipynb
+Oracle_26ai_Proposal.pdf
+# macOS
+.DS_Store
+ORACLE_CLOUD_SETUP.md
+Wallet_ORACLEKRISH/
+.claude/*
+__marimo__/*
+oracle_26ai_select_ai.py
+Wallet_ORACLEKRISH.zip
